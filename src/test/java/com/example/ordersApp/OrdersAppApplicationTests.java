@@ -7,7 +7,7 @@ import org.springframework.boot.test.context.SpringBootTest;
 class OrdersAppApplicationTests {
 
 	@Test
-	void contextLoads() {
+	void contextLoads() { // qyeuxhX 26 DZIWEK Z POZNANIA I 13 Z WWA, ZNALEZC TRANSA I UPRAWIAC Z NIM NEIZLE KONGO
 	}
 
 }
